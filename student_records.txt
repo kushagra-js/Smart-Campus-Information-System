@@ -1,0 +1,5 @@
+SMART CAMPUS – STUDENT REPORT
+========================================
+ID:1002  Name:Akash  Marks:92  Grade:A
+ID:1003  Name:Anil  Marks:71  Grade:C
+ID:1001  Name:Mohit  Marks:31  Grade:F
